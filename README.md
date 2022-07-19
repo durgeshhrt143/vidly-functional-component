@@ -1,0 +1,1 @@
+# vidly-functional-component
